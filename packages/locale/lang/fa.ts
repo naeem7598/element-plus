@@ -45,8 +45,8 @@ export default {
         sat: 'شنبه',
       },
       months: {
-        jan: 'ژانویه',
-        feb: 'فوریه',
+        jan: 'دی',
+        feb: 'بهمن',
         mar: 'مارس',
         apr: 'آوریل',
         may: 'مه',
